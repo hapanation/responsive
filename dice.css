@@ -6,7 +6,7 @@ h1
 	font-size: 12em;
 }
 
-#iphone
+#iphone.hidden
 {
 	display:none;
 }
