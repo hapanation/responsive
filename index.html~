@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="nodice.css"/>
+    <link rel="stylesheet" media="screen and (min-device-width:640px)" href="dice.css"/>
+  </head>
+
+  <body>
+    <h1>
+      <id="iphone">Dice</p><="noniphone">No dice</h1>
+</body>
+</h1>
+</html>
