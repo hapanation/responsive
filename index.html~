@@ -7,7 +7,9 @@
 
   <body>
     <h1>
-      <id="iphone">Dice</p><="noniphone">No dice</h1>
-</body>
-</h1>
+    <div id="iphone">Dice</div>
+    <div id="noniphone">No dice</div>
+    </h1>
+  </body>
+
 </html>
